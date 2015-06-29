@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>humbird-parent</artifactId>
+        <groupId>org.humbird.soa</groupId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../parent/pom.xml</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>Humbird-Component-Project</artifactId>
+    <packaging>pom</packaging>
+    <name>Humbird SOA Component Project</name>
+    <description>Humbird SOA Component Project</description>
+
+    <modules>
+        <module>Humbird-Component-ESIGN</module>
+    </modules>
+
+
+</project>

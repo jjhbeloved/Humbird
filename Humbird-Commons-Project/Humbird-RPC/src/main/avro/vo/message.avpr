@@ -1,0 +1,24 @@
+{
+    "namespace": "org.humbird.soa.db.rpc.avro.vo",
+    "protocol": "MessageProtocol",
+    "doc": "This is a message.",
+    "name": "Message",
+    "types": [
+        {"name":"Message", "type":"record",
+            "fields":[
+                {"name":"name", "type":"string"},
+                {"name":"type", "type":"int"},
+                {"name":"price", "type":"double"},
+                {"name":"valid", "type":"boolean"},
+                {"name":"content", "type":"bytes"},
+                {"name":"tags", "type":{"type":"array", "items":"string"}}
+        ]}
+    ],
+    "messages":    {
+        "sendMessage":{
+            "doc" : "test",
+            "request" :[{"name":"message","type":"Message" }],
+            "response" :"Message"
+        }
+    }
+}

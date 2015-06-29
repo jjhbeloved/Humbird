@@ -1,0 +1,1287 @@
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CodeInstrumentationTask$LoggerWrapper] Instrumenting 9 files  to /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CodeInstrumentationTask$LoggerWrapper] Instrumenting: /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/InvokeController.class to /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Instrumenting class /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/InvokeController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Working on file:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/InvokeController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:11:1:MI:183:java/lang/Object:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/InvokeController:0: Registering label (1) L1005524084
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/InvokeController:11: Registering line (2) L1005524084
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/InvokeController:11: Registering label (3) L520060860
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== Detected duplicated code =============
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== End of detected duplicated code ======
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Migrating classmap in projectData to store in *.ser file: org/humbird/soa/portal/controller/rest/InvokeController
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Assigned 1 counters for class:org/humbird/soa/portal/controller/rest/InvokeController
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(1):L1851425350 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L1005524084
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1005524084):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L1005524084
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1005524084):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(3):L229355894 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L520060860
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L520060860):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L520060860
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L520060860):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Writing instrumented class into:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/InvokeController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CodeInstrumentationTask$LoggerWrapper] Instrumenting: /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/view/FolderModel.class to /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Instrumenting class /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/view/FolderModel.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Working on file:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/view/FolderModel.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:20:1:MI:183:java/lang/Object:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:21:2:F:181:org/humbird/soa/portal/view/FolderModel:folder:Ljava/lang/String;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:22:3:F:181:org/humbird/soa/portal/view/FolderModel:file:Ljava/lang/String;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:23:4:F:181:org/humbird/soa/portal/view/FolderModel:path:Ljava/lang/String;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:24:5:F:181:org/humbird/soa/portal/view/FolderModel:index:Ljava/lang/String;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:25:6:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:28:7:F:180:org/humbird/soa/portal/view/FolderModel:folder:Ljava/lang/String;;176;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:32:8:F:181:org/humbird/soa/portal/view/FolderModel:folder:Ljava/lang/String;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:33:9:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:36:10:F:180:org/humbird/soa/portal/view/FolderModel:file:Ljava/lang/String;;176;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:40:11:F:181:org/humbird/soa/portal/view/FolderModel:file:Ljava/lang/String;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:41:12:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:44:13:F:180:org/humbird/soa/portal/view/FolderModel:path:Ljava/lang/String;;176;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:48:14:F:181:org/humbird/soa/portal/view/FolderModel:path:Ljava/lang/String;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:49:15:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:52:16:F:180:org/humbird/soa/portal/view/FolderModel:index:Ljava/lang/String;;176;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:56:17:F:181:org/humbird/soa/portal/view/FolderModel:index:Ljava/lang/String;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:57:18:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:0: Registering label (1) L1248102391
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:20: Registering line (2) L1248102391
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:20: Registering label (3) L236621641
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:21: Registering line (4) L236621641
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:21: Registering label (5) L1907689690
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:22: Registering line (6) L1907689690
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:22: Registering label (7) L609770120
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:23: Registering line (8) L609770120
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:23: Registering label (9) L614443356
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:24: Registering line (10) L614443356
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:24: Registering label (11) L1848109516
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:25: Registering line (12) L1848109516
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:25: Registering label (13) L2120648851
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:0: Registering label (14) L2106633145
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:28: Registering line (15) L2106633145
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:28: Registering label (16) L620379926
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:0: Registering label (17) L692310097
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:32: Registering line (18) L692310097
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:32: Registering label (19) L589400833
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:33: Registering line (20) L589400833
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:33: Registering label (21) L1865220267
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:0: Registering label (22) L1938232210
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:36: Registering line (23) L1938232210
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:36: Registering label (24) L689312127
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:0: Registering label (25) L1742126571
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:40: Registering line (26) L1742126571
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:40: Registering label (27) L1129235599
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:41: Registering line (28) L1129235599
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:41: Registering label (29) L1749723854
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:0: Registering label (30) L2115235807
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:44: Registering line (31) L2115235807
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:44: Registering label (32) L1323915811
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:0: Registering label (33) L974968910
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:48: Registering line (34) L974968910
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:48: Registering label (35) L1002243760
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:49: Registering line (36) L1002243760
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:49: Registering label (37) L1996630899
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:0: Registering label (38) L796051471
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:52: Registering line (39) L796051471
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:52: Registering label (40) L413952287
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:0: Registering label (41) L1596554976
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:56: Registering line (42) L1596554976
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:56: Registering label (43) L491312367
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:57: Registering line (44) L491312367
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/FolderModel:57: Registering label (45) L412329454
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== Detected duplicated code =============
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== End of detected duplicated code ======
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Migrating classmap in projectData to store in *.ser file: org/humbird/soa/portal/view/FolderModel
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Assigned 18 counters for class:org/humbird/soa/portal/view/FolderModel
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(1):L99167666 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L1248102391
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1248102391):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L1248102391
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1248102391):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(3):L263652390 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L236621641
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L236621641):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L236621641
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L236621641):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(5):L946954969 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:5:L1907689690
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1907689690):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:5:L1907689690
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1907689690):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(7):L470856066 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:7:L609770120
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L609770120):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:7:L609770120
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L609770120):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(9):L200662067 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:9:L614443356
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L614443356):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:9:L614443356
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L614443356):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(11):L978034279 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:11:L1848109516
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1848109516):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:11:L1848109516
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1848109516):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(13):L982293015 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:13:L2120648851
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2120648851):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:13:L2120648851
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2120648851):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(14):L191138085 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:14:L2106633145
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2106633145):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:14:L2106633145
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2106633145):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(16):L1969742330 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:16:L620379926
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L620379926):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:16:L620379926
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L620379926):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(17):L1094577527 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:17:L692310097
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L692310097):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:17:L692310097
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L692310097):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(19):L1219576087 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:19:L589400833
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L589400833):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:19:L589400833
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L589400833):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(21):L1831367241 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:21:L1865220267
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1865220267):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:21:L1865220267
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1865220267):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(22):L414966995 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:22:L1938232210
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1938232210):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:22:L1938232210
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1938232210):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(24):L1470883156 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:24:L689312127
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L689312127):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:24:L689312127
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L689312127):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(25):L1166898457 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:25:L1742126571
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1742126571):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:25:L1742126571
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1742126571):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(27):L1241702395 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:27:L1129235599
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1129235599):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:27:L1129235599
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1129235599):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(29):L46071219 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:29:L1749723854
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1749723854):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:29:L1749723854
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1749723854):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(30):L593592261 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:30:L2115235807
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2115235807):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:30:L2115235807
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2115235807):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(32):L1443590312 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:32:L1323915811
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1323915811):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:32:L1323915811
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1323915811):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(33):L90652407 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:33:L974968910
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L974968910):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:33:L974968910
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L974968910):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(35):L1029098726 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:35:L1002243760
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1002243760):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:35:L1002243760
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1002243760):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(37):L228994944 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:37:L1996630899
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1996630899):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:37:L1996630899
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1996630899):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(38):L949517606 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:38:L796051471
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L796051471):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:38:L796051471
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L796051471):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(40):L591423185 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:40:L413952287
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L413952287):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:40:L413952287
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L413952287):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(41):L1767028043 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:41:L1596554976
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1596554976):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:41:L1596554976
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1596554976):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(43):L888964338 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:43:L491312367
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L491312367):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:43:L491312367
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L491312367):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(45):L779896587 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:45:L412329454
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L412329454):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:45:L412329454
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L412329454):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Writing instrumented class into:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/view/FolderModel.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CodeInstrumentationTask$LoggerWrapper] Instrumenting: /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/view/HomeController.class to /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Instrumenting class /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/view/HomeController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Working on file:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/view/HomeController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:28:1:MI:183:java/lang/Object:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:35:2:89;MI:183:java/util/HashMap:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:36:3:89;MI:183:org/springframework/web/servlet/ModelAndView:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:38:4:1;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:40:5:LDC:#org#humbird#soa#index;MI:184:org/humbird/soa/core/util/HumbirdUtil:getSession:(Ljava/lang/String;)Lorg/humbird/soa/core/HumbirdSession;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:41:6:MI:182:org/humbird/soa/core/HumbirdSession:getValue:()Ljava/lang/Object;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:42:7:MI:182:org/humbird/soa/core/model/IndexModel:getVersion:()Ljava/lang/String;;89;L;JUMP:199;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:43:8:MI:185:javax/servlet/http/HttpServletRequest:getServletContext:()Ljavax/servlet/ServletContext;;LDC:/META-INF/MANIFEST.MF;MI:185:javax/servlet/ServletContext:getResourceAsStream:(Ljava/lang/String;)Ljava/io/InputStream;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:44:9:1;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:46:10:89;MI:183:java/util/jar/Manifest:<init>:(Ljava/io/InputStream;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:49:11:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:47:12:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:48:13:F:178:org/humbird/soa/portal/controller/view/HomeController:LOGGER:Lorg/slf4j/Logger;;LDC:Could not load MANIFEST.MF from /META-INF/, ;MI:185:org/slf4j/Logger:error:(Ljava/lang/String;Ljava/lang/Throwable;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:50:14:MI:182:java/util/jar/Manifest:getMainAttributes:()Ljava/util/jar/Attributes;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:51:15:89;MI:183:java/lang/StringBuilder:<init>:()V;LDC:Specification-Version;MI:182:java/util/jar/Attributes:getValue:(Ljava/lang/String;)Ljava/lang/String;;MI:182:java/lang/StringBuilder:append:(Ljava/lang/String;)Ljava/lang/StringBuilder;;LDC:-;MI:182:java/lang/StringBuilder:append:(Ljava/lang/String;)Ljava/lang/StringBuilder;;LDC:Implementation-Version;MI:182:java/util/jar/Attributes:getValue:(Ljava/lang/String;)Ljava/lang/String;;MI:182:java/lang/StringBuilder:append:(Ljava/lang/String;)Ljava/lang/StringBuilder;;MI:182:java/lang/StringBuilder:toString:()Ljava/lang/String;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:52:16:MI:182:org/humbird/soa/core/model/IndexModel:setVersion:(Ljava/lang/String;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:54:17:LDC:index;MI:182:org/springframework/web/servlet/ModelAndView:setViewName:(Ljava/lang/String;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:55:18:LDC:props;MI:182:org/humbird/soa/core/model/IndexModel:getValues:()Ljava/util/Map;;MI:185:java/util/Map:put:(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;;87;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:56:19:LDC:version;MI:185:java/util/Map:put:(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;;87;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:57:20:MI:182:org/springframework/web/servlet/ModelAndView:addAllObjects:(Ljava/util/Map;)Lorg/springframework/web/servlet/ModelAndView;;87;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:61:21:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:58:22:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:59:23:MI:182:java/lang/Exception:printStackTrace:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:60:24:LDC:404;MI:182:org/springframework/web/servlet/ModelAndView:setViewName:(Ljava/lang/String;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:63:25:176;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:30:26:LDC:Lorg/humbird/soa/portal/controller/view/HomeController;;MI:184:org/slf4j/LoggerFactory:getLogger:(Ljava/lang/Class;)Lorg/slf4j/Logger;;F:179:org/humbird/soa/portal/controller/view/HomeController:LOGGER:Lorg/slf4j/Logger;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:0: Registering label (1) L524450165
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:28: Registering line (2) L524450165
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:28: Registering label (3) L1161035867
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:0: Registering label (4) L1662728206
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:35: Registering line (5) L1662728206
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:35: Registering label (6) L268259831
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:36: Registering line (7) L268259831
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:36: Registering label (8) L1074804564
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:38: Registering line (9) L1074804564
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:38: Registering label (10) L1218495795
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:40: Registering line (11) L1218495795
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:40: Registering label (12) L1755352231
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:41: Registering line (13) L1755352231
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:41: Registering label (14) L74603931
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:42: Registering line (15) L74603931
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:42: Registering label (16) L1885302116
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:42: Registering JUMP (17) to L151452127
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:42: Registering label (18) L1132604626
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:43: Registering line (19) L1132604626
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:43: Registering label (20) L390902174
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:44: Registering line (21) L390902174
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:44: Registering label (22) L1493400027
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:46: Registering line (23) L1493400027
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:46: Registering label (24) L1932871300
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:49: Registering line (25) L1932871300
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:49: Registering label (26) L782810931
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:47: Registering line (27) L782810931
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:47: Registering label (28) L1786530275
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:48: Registering line (29) L1786530275
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:48: Registering label (30) L740362245
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:50: Registering line (31) L740362245
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:50: Registering label (32) L97979571
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:51: Registering line (33) L97979571
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:51: Registering label (34) L1770176195
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:52: Registering line (35) L1770176195
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:52: Registering label (36) L151452127
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:54: Registering line (37) L151452127
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:54: Registering label (38) L112863827
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:55: Registering line (39) L112863827
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:55: Registering label (40) L674280088
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:56: Registering line (41) L674280088
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:56: Registering label (42) L354233797
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:57: Registering line (43) L354233797
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:57: Registering label (44) L854768773
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:61: Registering line (45) L854768773
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:61: Registering label (46) L1580653028
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:58: Registering line (47) L1580653028
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:58: Registering label (48) L306951343
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:59: Registering line (49) L306951343
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:59: Registering label (50) L675501707
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:60: Registering line (51) L675501707
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:60: Registering label (52) L782756695
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:63: Registering line (53) L782756695
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:63: Registering label (54) L1558631507
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:0: Registering label (55) L914212043
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/HomeController:30: Registering line (56) L914212043
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== Detected duplicated code =============
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== End of detected duplicated code ======
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Migrating classmap in projectData to store in *.ser file: org/humbird/soa/portal/controller/view/HomeController
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Assigned 28 counters for class:org/humbird/soa/portal/controller/view/HomeController
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(1):L1280277751 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L524450165
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L524450165):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L524450165
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L524450165):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(3):L1989501764 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1161035867
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1161035867):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1161035867
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1161035867):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(4):L1784593911 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:4:L1662728206
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1662728206):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:4:L1662728206
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1662728206):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(6):L1913248175 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:6:L268259831
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L268259831):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:6:L268259831
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L268259831):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(8):L1689430694 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:8:L1074804564
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1074804564):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:8:L1074804564
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1074804564):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(10):L1012712496 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:10:L1218495795
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1218495795):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:10:L1218495795
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1218495795):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(12):L232893424 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:12:L1755352231
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1755352231):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:12:L1755352231
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1755352231):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(14):L1524572334 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:14:L74603931
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L74603931):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:14:L74603931
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L74603931):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(16):L1859825181 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:16:L1885302116
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1885302116):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:16:L1885302116
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1885302116):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] After jump:42(17) to :L1457334982
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(18):L1378048439 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:18:L1132604626
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1132604626):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:18:L1132604626
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1132604626):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(20):L248981378 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:20:L390902174
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L390902174):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:20:L390902174
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L390902174):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(22):L596770686 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:22:L1493400027
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1493400027):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:22:L1493400027
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1493400027):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(24):L1176288112 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:24:L1932871300
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1932871300):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:24:L1932871300
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1932871300):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(26):L139844102 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:26:L782810931
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L782810931):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:26:L782810931
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L782810931):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(28):L1612669149 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:28:L1786530275
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1786530275):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:28:L1786530275
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1786530275):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(30):L1331875690 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:30:L740362245
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L740362245):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:30:L740362245
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L740362245):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(32):L739278456 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:32:L97979571
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L97979571):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:32:L97979571
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L97979571):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(34):L1860112097 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:34:L1770176195
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1770176195):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:34:L1770176195
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1770176195):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(36):L1457334982 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:36:L151452127
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L151452127):[net.sourceforge.cobertura.instrument.tp.JumpTouchPointDescriptor@28509953]
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:36:L151452127
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L151452127):[net.sourceforge.cobertura.instrument.tp.JumpTouchPointDescriptor@28509953]
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(38):L1210147789 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:38:L112863827
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L112863827):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:38:L112863827
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L112863827):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(40):L136268986 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:40:L674280088
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L674280088):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:40:L674280088
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L674280088):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(42):L1055280000 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:42:L354233797
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L354233797):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:42:L354233797
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L354233797):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(44):L1851017797 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:44:L854768773
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L854768773):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:44:L854768773
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L854768773):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(46):L1608003737 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:46:L1580653028
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1580653028):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:46:L1580653028
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1580653028):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(48):L154018541 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:48:L306951343
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L306951343):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:48:L306951343
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L306951343):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(50):L871823952 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:50:L675501707
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L675501707):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:50:L675501707
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L675501707):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(52):L23519427 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:52:L782756695
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L782756695):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:52:L782756695
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L782756695):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(54):L464237783 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:54:L1558631507
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1558631507):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:54:L1558631507
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1558631507):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(55):L335815472 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:55:L914212043
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L914212043):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:55:L914212043
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L914212043):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Writing instrumented class into:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/view/HomeController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CodeInstrumentationTask$LoggerWrapper] Instrumenting: /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/view/CustomController.class to /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Instrumenting class /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/view/CustomController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Working on file:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/view/CustomController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:27:1:MI:183:java/lang/Object:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:35:2:89;MI:183:java/util/HashMap:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:36:3:89;MI:183:org/springframework/web/servlet/ModelAndView:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:37:4:LDC:custom/index;MI:182:org/springframework/web/servlet/ModelAndView:setViewName:(Ljava/lang/String;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:38:5:1;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:40:6:LDC:#org#humbird#soa#custom#custom;MI:184:org/humbird/soa/core/util/HumbirdUtil:getSession:(Ljava/lang/String;)Lorg/humbird/soa/core/HumbirdSession;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:41:7:MI:182:org/humbird/soa/core/HumbirdSession:getValue:()Ljava/lang/Object;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:42:8:MI:185:java/util/Map:entrySet:()Ljava/util/Set;;MI:185:java/util/Set:iterator:()Ljava/util/Iterator;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:44:9:MI:185:java/util/Iterator:hasNext:()Z;JUMP:153;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:45:10:MI:185:java/util/Iterator:next:()Ljava/lang/Object;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:46:11:MI:185:java/util/Map$Entry:getValue:()Ljava/lang/Object;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:47:12:MI:185:java/util/Map:entrySet:()Ljava/util/Set;;MI:185:java/util/Set:iterator:()Ljava/util/Iterator;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:48:13:MI:185:java/util/Iterator:hasNext:()Z;JUMP:153;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:49:14:MI:185:java/util/Iterator:next:()Ljava/lang/Object;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:50:15:MI:185:java/util/Map$Entry:getValue:()Ljava/lang/Object;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:51:16:MI:182:org/humbird/soa/core/model/PropertyModel:getPath:()Ljava/lang/String;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:52:17:MI:182:org/humbird/soa/core/model/PropertyModel:getPath:()Ljava/lang/String;;89;89;MI:183:java/lang/StringBuilder:<init>:()V;LDC:/custom/;MI:182:java/lang/StringBuilder:append:(Ljava/lang/String;)Ljava/lang/StringBuilder;;MI:182:org/humbird/soa/core/model/PropertyModel:getFolder:()Ljava/lang/String;;MI:182:java/lang/StringBuilder:append:(Ljava/lang/String;)Ljava/lang/StringBuilder;;MI:182:java/lang/StringBuilder:toString:()Ljava/lang/String;;MI:182:org/humbird/soa/core/model/PropertyModel:getFile:()Ljava/lang/String;;89;MI:183:java/lang/StringBuilder:<init>:()V;LDC:/custom;MI:182:java/lang/StringBuilder:append:(Ljava/lang/String;)Ljava/lang/StringBuilder;;3;MI:182:java/lang/String:length:()I;LDC:.properties;MI:182:java/lang/String:length:()I;100;MI:182:java/lang/String:substring:(II)Ljava/lang/String;;MI:182:java/lang/StringBuilder:append:(Ljava/lang/String;)Ljava/lang/StringBuilder;;MI:182:java/lang/StringBuilder:toString:()Ljava/lang/String;;MI:182:org/humbird/soa/core/model/PropertyModel:getKey:()Ljava/lang/String;;MI:183:org/humbird/soa/portal/view/FolderModel:<init>:(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V;MI:185:java/util/Map:put:(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;;87;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:53:18:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:54:19:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:57:20:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:55:21:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:59:22:LDC:maps;MI:182:org/springframework/web/servlet/ModelAndView:addObject:(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/web/servlet/ModelAndView;;87;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:60:23:176;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:66:24:89;MI:183:org/springframework/web/servlet/ModelAndView:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:67:25:LDC:custom/custom;MI:182:org/springframework/web/servlet/ModelAndView:setViewName:(Ljava/lang/String;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:69:26:1;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:70:27:1;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:72:28:LDC:#org#humbird#soa#custom#custom;MI:184:org/humbird/soa/core/util/HumbirdUtil:getSession:(Ljava/lang/String;)Lorg/humbird/soa/core/HumbirdSession;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:73:29:MI:182:org/humbird/soa/core/HumbirdSession:getValue:()Ljava/lang/Object;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:74:30:MI:185:java/util/Map:get:(Ljava/lang/Object;)Ljava/lang/Object;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:75:31:1;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:76:32:89;MI:183:java/lang/StringBuilder:<init>:()V;MI:182:java/lang/StringBuilder:append:(Ljava/lang/String;)Ljava/lang/StringBuilder;;LDC:/;MI:182:java/lang/StringBuilder:append:(Ljava/lang/String;)Ljava/lang/StringBuilder;;MI:182:java/lang/StringBuilder:append:(Ljava/lang/String;)Ljava/lang/StringBuilder;;LDC:.properties;MI:182:java/lang/StringBuilder:append:(Ljava/lang/String;)Ljava/lang/StringBuilder;;MI:182:java/lang/StringBuilder:toString:()Ljava/lang/String;;MI:185:java/util/Map:get:(Ljava/lang/Object;)Ljava/lang/Object;;89;JUMP:198;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:77:33:MI:182:org/humbird/soa/core/model/PropertyModel:getPropsModel:()Lorg/humbird/soa/common/model/common/PropsModel;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:81:34:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:79:35:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:83:36:LDC:props;MI:182:org/springframework/web/servlet/ModelAndView:addObject:(Ljava/lang/String;Ljava/lang/Object;)Lorg/springframework/web/servlet/ModelAndView;;87;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:84:37:176;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:29:38:LDC:Lorg/humbird/soa/portal/controller/view/CustomController;;MI:184:org/slf4j/LoggerFactory:getLogger:(Ljava/lang/Class;)Lorg/slf4j/Logger;;F:179:org/humbird/soa/portal/controller/view/CustomController:LOGGER:Lorg/slf4j/Logger;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:0: Registering label (1) L714072978
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:27: Registering line (2) L714072978
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:27: Registering label (3) L1285921810
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:0: Registering label (4) L1717430051
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:35: Registering line (5) L1717430051
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:35: Registering label (6) L519167830
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:36: Registering line (7) L519167830
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:36: Registering label (8) L427661049
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:37: Registering line (9) L427661049
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:37: Registering label (10) L71484034
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:38: Registering line (11) L71484034
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:38: Registering label (12) L212437262
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:40: Registering line (13) L212437262
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:40: Registering label (14) L988800765
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:41: Registering line (15) L988800765
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:41: Registering label (16) L1545996869
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:42: Registering line (17) L1545996869
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:42: Registering label (18) L1164732230
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:44: Registering line (19) L1164732230
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:44: Registering JUMP (20) to L1315241120
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:44: Registering label (21) L672715523
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:45: Registering line (22) L672715523
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:45: Registering label (23) L1975877253
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:46: Registering line (24) L1975877253
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:46: Registering label (25) L2029357610
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:47: Registering line (26) L2029357610
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:47: Registering label (27) L1078069616
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:48: Registering line (28) L1078069616
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:48: Registering JUMP (29) to L796506373
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:48: Registering label (30) L1173290035
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:49: Registering line (31) L1173290035
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:49: Registering label (32) L1290771491
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:50: Registering line (33) L1290771491
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:50: Registering label (34) L116647243
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:51: Registering line (35) L116647243
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:51: Registering label (36) L1985127037
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:52: Registering line (37) L1985127037
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:52: Registering label (38) L724171067
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:53: Registering line (39) L724171067
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:53: Registering label (40) L796506373
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:54: Registering line (41) L796506373
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:54: Registering label (42) L1315241120
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:57: Registering line (43) L1315241120
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:57: Registering label (44) L1208325269
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:55: Registering line (45) L1208325269
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:55: Registering label (46) L1353295520
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:59: Registering line (47) L1353295520
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:59: Registering label (48) L838499263
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:60: Registering line (49) L838499263
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:60: Registering label (50) L869421627
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:0: Registering label (51) L1977080645
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:66: Registering line (52) L1977080645
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:66: Registering label (53) L779930484
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:67: Registering line (54) L779930484
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:67: Registering label (55) L51463300
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:69: Registering line (56) L51463300
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:69: Registering label (57) L1655257006
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:70: Registering line (58) L1655257006
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:70: Registering label (59) L890550801
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:72: Registering line (60) L890550801
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:72: Registering label (61) L1401336604
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:73: Registering line (62) L1401336604
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:73: Registering label (63) L811146779
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:74: Registering line (64) L811146779
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:74: Registering label (65) L717723497
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:75: Registering line (66) L717723497
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:75: Registering label (67) L363168880
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:76: Registering line (68) L363168880
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:76: Registering JUMP (69) to L1673776464
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:76: Registering label (70) L424409263
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:77: Registering line (71) L424409263
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:77: Registering label (72) L1673776464
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:81: Registering line (73) L1673776464
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:81: Registering label (74) L1272738395
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:79: Registering line (75) L1272738395
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:79: Registering label (76) L1253291554
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:83: Registering line (77) L1253291554
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:83: Registering label (78) L1551538302
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:84: Registering line (79) L1551538302
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:84: Registering label (80) L1957799840
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:0: Registering label (81) L997471546
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/view/CustomController:29: Registering line (82) L997471546
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== Detected duplicated code =============
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== End of detected duplicated code ======
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Migrating classmap in projectData to store in *.ser file: org/humbird/soa/portal/controller/view/CustomController
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Assigned 44 counters for class:org/humbird/soa/portal/controller/view/CustomController
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(1):L1923518082 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L714072978
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L714072978):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L714072978
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L714072978):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(3):L349582236 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1285921810
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1285921810):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1285921810
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1285921810):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(4):L310361440 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:4:L1717430051
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1717430051):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:4:L1717430051
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1717430051):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(6):L6943517 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:6:L519167830
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L519167830):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:6:L519167830
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L519167830):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(8):L735573281 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:8:L427661049
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L427661049):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:8:L427661049
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L427661049):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(10):L1864261635 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:10:L71484034
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L71484034):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:10:L71484034
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L71484034):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(12):L607639762 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:12:L212437262
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L212437262):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:12:L212437262
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L212437262):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(14):L858889715 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:14:L988800765
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L988800765):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:14:L988800765
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L988800765):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(16):L2121848518 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:16:L1545996869
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1545996869):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:16:L1545996869
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1545996869):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(18):L794599944 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:18:L1164732230
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1164732230):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:18:L1164732230
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1164732230):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] After jump:44(20) to :L1316738449
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(21):L1787941762 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:21:L672715523
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L672715523):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:21:L672715523
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L672715523):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(23):L198521463 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:23:L1975877253
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1975877253):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:23:L1975877253
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1975877253):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(25):L1508124850 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:25:L2029357610
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2029357610):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:25:L2029357610
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2029357610):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(27):L304868409 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:27:L1078069616
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1078069616):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:27:L1078069616
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1078069616):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] After jump:48(29) to :L27368321
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(30):L417870589 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:30:L1173290035
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1173290035):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:30:L1173290035
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1173290035):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(32):L879463633 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:32:L1290771491
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1290771491):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:32:L1290771491
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1290771491):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(34):L15337530 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:34:L116647243
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L116647243):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:34:L116647243
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L116647243):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(36):L79829070 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:36:L1985127037
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1985127037):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:36:L1985127037
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1985127037):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(38):L1657383762 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:38:L724171067
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L724171067):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:38:L724171067
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L724171067):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(40):L27368321 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:40:L796506373
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L796506373):[net.sourceforge.cobertura.instrument.tp.JumpTouchPointDescriptor@60620f9c]
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:40:L796506373
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L796506373):[net.sourceforge.cobertura.instrument.tp.JumpTouchPointDescriptor@60620f9c]
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(42):L1316738449 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:42:L1315241120
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1315241120):[net.sourceforge.cobertura.instrument.tp.JumpTouchPointDescriptor@4ff04845]
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:42:L1315241120
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1315241120):[net.sourceforge.cobertura.instrument.tp.JumpTouchPointDescriptor@4ff04845]
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(44):L604130008 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:44:L1208325269
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1208325269):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:44:L1208325269
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1208325269):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(46):L638502697 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:46:L1353295520
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1353295520):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:46:L1353295520
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1353295520):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(48):L339044420 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:48:L838499263
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L838499263):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:48:L838499263
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L838499263):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(50):L1045451449 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:50:L869421627
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L869421627):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:50:L869421627
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L869421627):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(51):L1397974951 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:51:L1977080645
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1977080645):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:51:L1977080645
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1977080645):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(53):L146419630 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:53:L779930484
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L779930484):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:53:L779930484
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L779930484):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(55):L2005945595 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:55:L51463300
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L51463300):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:55:L51463300
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L51463300):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(57):L581840912 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:57:L1655257006
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1655257006):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:57:L1655257006
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1655257006):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(59):L1412670249 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:59:L890550801
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L890550801):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:59:L890550801
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L890550801):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(61):L1507163193 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:61:L1401336604
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1401336604):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:61:L1401336604
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1401336604):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(63):L1322168386 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:63:L811146779
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L811146779):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:63:L811146779
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L811146779):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(65):L1670767993 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:65:L717723497
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L717723497):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:65:L717723497
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L717723497):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(67):L101490179 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:67:L363168880
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L363168880):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:67:L363168880
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L363168880):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] After jump:76(69) to :L169673711
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(70):L643422735 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:70:L424409263
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L424409263):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:70:L424409263
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L424409263):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(72):L169673711 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:72:L1673776464
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1673776464):[net.sourceforge.cobertura.instrument.tp.JumpTouchPointDescriptor@2599e02a]
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:72:L1673776464
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1673776464):[net.sourceforge.cobertura.instrument.tp.JumpTouchPointDescriptor@2599e02a]
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(74):L1995261208 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:74:L1272738395
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1272738395):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:74:L1272738395
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1272738395):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(76):L1425744500 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:76:L1253291554
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1253291554):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:76:L1253291554
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1253291554):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(78):L865278274 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:78:L1551538302
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1551538302):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:78:L1551538302
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1551538302):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(80):L2120177281 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:80:L1957799840
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1957799840):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:80:L1957799840
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1957799840):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(81):L30348759 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:81:L997471546
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L997471546):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:81:L997471546
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L997471546):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Writing instrumented class into:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/view/CustomController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CodeInstrumentationTask$LoggerWrapper] Instrumenting: /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/util/PathUtil.class to /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Instrumenting class /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/util/PathUtil.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Working on file:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/util/PathUtil.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:6:1:MI:183:java/lang/Object:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/util/PathUtil:0: Registering label (1) L761645195
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/util/PathUtil:6: Registering line (2) L761645195
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/util/PathUtil:6: Registering label (3) L1968256245
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== Detected duplicated code =============
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== End of detected duplicated code ======
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Migrating classmap in projectData to store in *.ser file: org/humbird/soa/portal/util/PathUtil
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Assigned 1 counters for class:org/humbird/soa/portal/util/PathUtil
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(1):L355647467 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L761645195
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L761645195):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L761645195
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L761645195):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(3):L919988268 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1968256245
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1968256245):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1968256245
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1968256245):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Writing instrumented class into:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/util/PathUtil.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CodeInstrumentationTask$LoggerWrapper] Instrumenting: /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/view/InvokeModel.class to /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Instrumenting class /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/view/InvokeModel.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Working on file:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/view/InvokeModel.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:15:1:MI:183:java/lang/Object:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:16:2:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:19:3:F:180:org/humbird/soa/portal/view/InvokeModel:sources:Ljava/util/Map;;176;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:23:4:F:181:org/humbird/soa/portal/view/InvokeModel:sources:Ljava/util/Map;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:24:5:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:0: Registering label (1) L95128356
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:15: Registering line (2) L95128356
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:15: Registering label (3) L1094445924
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:16: Registering line (4) L1094445924
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:16: Registering label (5) L1155208113
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:0: Registering label (6) L183102664
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:19: Registering line (7) L183102664
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:19: Registering label (8) L62407697
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:0: Registering label (9) L914143743
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:23: Registering line (10) L914143743
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:23: Registering label (11) L915877963
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:24: Registering line (12) L915877963
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/view/InvokeModel:24: Registering label (13) L2145626092
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== Detected duplicated code =============
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== End of detected duplicated code ======
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Migrating classmap in projectData to store in *.ser file: org/humbird/soa/portal/view/InvokeModel
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Assigned 5 counters for class:org/humbird/soa/portal/view/InvokeModel
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(1):L331131106 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L95128356
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L95128356):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L95128356
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L95128356):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(3):L1190369165 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1094445924
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1094445924):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1094445924
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1094445924):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(5):L576900703 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:5:L1155208113
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1155208113):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:5:L1155208113
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1155208113):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(6):L1213019392 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:6:L183102664
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L183102664):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:6:L183102664
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L183102664):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(8):L1154660373 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:8:L62407697
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L62407697):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:8:L62407697
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L62407697):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(9):L865928030 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:9:L914143743
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L914143743):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:9:L914143743
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L914143743):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(11):L155724491 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:11:L915877963
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L915877963):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:11:L915877963
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L915877963):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(13):L1626438191 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:13:L2145626092
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2145626092):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:13:L2145626092
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2145626092):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Writing instrumented class into:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/view/InvokeModel.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CodeInstrumentationTask$LoggerWrapper] Instrumenting: /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/listener/HumbirdListener.class to /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Instrumenting class /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/listener/HumbirdListener.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Working on file:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/listener/HumbirdListener.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:15:1:MI:183:org/springframework/web/context/ContextLoaderListener:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:21:2:F:178:org/humbird/soa/portal/listener/HumbirdListener:LOGGER:Lorg/slf4j/Logger;;LDC:============================== Initial Humbird Project ==============================;MI:185:org/slf4j/Logger:debug:(Ljava/lang/String;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:22:3:MI:182:javax/servlet/ServletContextEvent:getServletContext:()Ljavax/servlet/ServletContext;;MI:184:org/springframework/web/context/support/WebApplicationContextUtils:getWebApplicationContext:(Ljavax/servlet/ServletContext;)Lorg/springframework/web/context/WebApplicationContext;;MI:184:org/humbird/soa/core/util/CacheUtil:newInstance:(Lorg/springframework/web/context/WebApplicationContext;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:24:4:MI:184:org/humbird/soa/core/util/HumbirdUtil:init:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:31:5:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:25:6:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:26:7:MI:182:java/lang/Exception:printStackTrace:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:27:8:F:178:org/humbird/soa/portal/listener/HumbirdListener:LOGGER:Lorg/slf4j/Logger;;LDC:******* Loading Cache Error *******;MI:185:org/slf4j/Logger:debug:(Ljava/lang/String;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:28:9:MI:184:org/humbird/soa/core/util/HumbirdUtil:destory:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:29:10:F:178:org/humbird/soa/portal/listener/HumbirdListener:LOGGER:Lorg/slf4j/Logger;;LDC:============================== Destory Humbird Project ==============================;MI:185:org/slf4j/Logger:debug:(Ljava/lang/String;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:30:11:3;MI:184:java/lang/System:exit:(I)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:32:12:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:36:13:MI:184:org/humbird/soa/core/util/HumbirdUtil:destory:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:37:14:F:178:org/humbird/soa/portal/listener/HumbirdListener:LOGGER:Lorg/slf4j/Logger;;LDC:============================== Destory Humbird Project ==============================;MI:185:org/slf4j/Logger:debug:(Ljava/lang/String;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:38:15:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:17:16:LDC:Lorg/humbird/soa/portal/listener/HumbirdListener;;MI:184:org/slf4j/LoggerFactory:getLogger:(Ljava/lang/Class;)Lorg/slf4j/Logger;;F:179:org/humbird/soa/portal/listener/HumbirdListener:LOGGER:Lorg/slf4j/Logger;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:0: Registering label (1) L1975187830
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:15: Registering line (2) L1975187830
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:15: Registering label (3) L1179643484
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:0: Registering label (4) L1200953039
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:21: Registering line (5) L1200953039
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:21: Registering label (6) L218928320
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:22: Registering line (7) L218928320
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:22: Registering label (8) L699006484
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:24: Registering line (9) L699006484
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:24: Registering label (10) L1466427498
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:31: Registering line (11) L1466427498
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:31: Registering label (12) L1724625914
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:25: Registering line (13) L1724625914
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:25: Registering label (14) L2093150818
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:26: Registering line (15) L2093150818
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:26: Registering label (16) L1656176619
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:27: Registering line (17) L1656176619
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:27: Registering label (18) L1824886766
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:28: Registering line (19) L1824886766
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:28: Registering label (20) L510429708
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:29: Registering line (21) L510429708
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:29: Registering label (22) L1742416238
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:30: Registering line (23) L1742416238
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:30: Registering label (24) L888786929
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:32: Registering line (25) L888786929
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:32: Registering label (26) L1702701574
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:0: Registering label (27) L2085757943
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:36: Registering line (28) L2085757943
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:36: Registering label (29) L1958178020
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:37: Registering line (30) L1958178020
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:37: Registering label (31) L911091865
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:38: Registering line (32) L911091865
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:38: Registering label (33) L1162571945
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:0: Registering label (34) L1540459209
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/listener/HumbirdListener:17: Registering line (35) L1540459209
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== Detected duplicated code =============
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== End of detected duplicated code ======
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Migrating classmap in projectData to store in *.ser file: org/humbird/soa/portal/listener/HumbirdListener
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Assigned 16 counters for class:org/humbird/soa/portal/listener/HumbirdListener
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(1):L2028837385 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L1975187830
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1975187830):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L1975187830
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1975187830):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(3):L924582629 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1179643484
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1179643484):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1179643484
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1179643484):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(4):L720766128 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:4:L1200953039
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1200953039):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:4:L1200953039
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1200953039):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(6):L2108544216 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:6:L218928320
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L218928320):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:6:L218928320
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L218928320):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(8):L679605240 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:8:L699006484
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L699006484):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:8:L699006484
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L699006484):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(10):L1807233934 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:10:L1466427498
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1466427498):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:10:L1466427498
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1466427498):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(12):L172025570 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:12:L1724625914
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1724625914):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:12:L1724625914
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1724625914):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(14):L804676210 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:14:L2093150818
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2093150818):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:14:L2093150818
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2093150818):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(16):L1488536311 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:16:L1656176619
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1656176619):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:16:L1656176619
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1656176619):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(18):L1792775074 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:18:L1824886766
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1824886766):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:18:L1824886766
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1824886766):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(20):L1975101308 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:20:L510429708
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L510429708):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:20:L510429708
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L510429708):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(22):L1872951877 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:22:L1742416238
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1742416238):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:22:L1742416238
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1742416238):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(24):L527495518 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:24:L888786929
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L888786929):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:24:L888786929
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L888786929):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(26):L886899013 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:26:L1702701574
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1702701574):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:26:L1702701574
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1702701574):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(27):L42068251 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:27:L2085757943
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2085757943):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:27:L2085757943
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2085757943):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(29):L518974694 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:29:L1958178020
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1958178020):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:29:L1958178020
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1958178020):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(31):L1476591591 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:31:L911091865
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L911091865):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:31:L911091865
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L911091865):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(33):L753845205 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:33:L1162571945
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1162571945):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:33:L1162571945
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1162571945):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(34):L1864083935 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:34:L1540459209
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1540459209):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:34:L1540459209
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1540459209):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Writing instrumented class into:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/listener/HumbirdListener.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CodeInstrumentationTask$LoggerWrapper] Instrumenting: /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/O2PController.class to /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Instrumenting class /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/O2PController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Working on file:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/O2PController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:25:1:MI:183:java/lang/Object:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:63:2:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:34:3:F:181:org/humbird/soa/portal/controller/rest/O2PController:invokeModel:Lorg/humbird/soa/portal/view/InvokeModel;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:35:4:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:47:5:89;LDC:o2p;MI:183:org/humbird/soa/core/model/ProtocolModel:<init>:(Ljava/lang/String;Ljava/lang/String;Ljavax/servlet/ServletRequest;Ljavax/servlet/ServletResponse;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:49:6:F:180:org/humbird/soa/portal/controller/rest/O2PController:invokeModel:Lorg/humbird/soa/portal/view/InvokeModel;;MI:182:org/humbird/soa/portal/view/InvokeModel:getSources:()Ljava/util/Map;;MI:185:java/util/Map:get:(Ljava/lang/Object;)Ljava/lang/Object;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:51:7:JUMP:153;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:52:8:89;89;MI:183:org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:<init>:(Lorg/humbird/soa/portal/controller/rest/O2PController;Lorg/humbird/soa/core/invoke/Done;Lorg/humbird/soa/core/model/ProtocolModel;)V;MI:183:java/lang/Thread:<init>:(Ljava/lang/Runnable;)V;MI:182:java/lang/Thread:start:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:53:9:17:200;MI:185:javax/servlet/http/HttpServletResponse:setStatus:(I)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:55:10:MI:185:org/humbird/soa/core/invoke/Done:invoke:(Lorg/humbird/soa/core/model/ProtocolModel;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:59:11:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:57:12:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:60:13:1;176;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:27:14:LDC:Lorg/humbird/soa/portal/controller/rest/O2PController;;MI:184:org/slf4j/LoggerFactory:getLogger:(Ljava/lang/Class;)Lorg/slf4j/Logger;;F:179:org/humbird/soa/portal/controller/rest/O2PController:LOGGER:Lorg/slf4j/Logger;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:0: Registering label (1) L772762661
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:25: Registering line (2) L772762661
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:25: Registering label (3) L1988430018
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:63: Registering line (4) L1988430018
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:63: Registering label (5) L402797912
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:0: Registering label (6) L956051640
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:34: Registering line (7) L956051640
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:34: Registering label (8) L887266626
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:35: Registering line (9) L887266626
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:35: Registering label (10) L163738414
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:0: Registering label (11) L390920097
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:47: Registering line (12) L390920097
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:47: Registering label (13) L1041594106
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:49: Registering line (14) L1041594106
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:49: Registering label (15) L1024972291
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:51: Registering line (16) L1024972291
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:51: Registering JUMP (17) to L1932932845
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:51: Registering label (18) L130089388
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:52: Registering line (19) L130089388
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:52: Registering label (20) L273991470
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:53: Registering line (21) L273991470
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:53: Registering label (22) L1932932845
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:55: Registering line (23) L1932932845
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:55: Registering label (24) L1742962250
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:59: Registering line (25) L1742962250
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:59: Registering label (26) L142107023
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:57: Registering line (27) L142107023
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:57: Registering label (28) L769697122
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:60: Registering line (29) L769697122
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:60: Registering label (30) L2005523573
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:0: Registering label (31) L2078851746
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController:27: Registering line (32) L2078851746
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== Detected duplicated code =============
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== End of detected duplicated code ======
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Migrating classmap in projectData to store in *.ser file: org/humbird/soa/portal/controller/rest/O2PController
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Assigned 16 counters for class:org/humbird/soa/portal/controller/rest/O2PController
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(1):L1185825199 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L772762661
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L772762661):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L772762661
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L772762661):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(3):L1515875433 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1988430018
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1988430018):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1988430018
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1988430018):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(5):L1719898070 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:5:L402797912
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L402797912):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:5:L402797912
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L402797912):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(6):L1504067088 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:6:L956051640
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L956051640):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:6:L956051640
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L956051640):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(8):L825539179 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:8:L887266626
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L887266626):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:8:L887266626
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L887266626):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(10):L2092621833 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:10:L163738414
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L163738414):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:10:L163738414
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L163738414):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(11):L649946595 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:11:L390920097
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L390920097):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:11:L390920097
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L390920097):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(13):L1550593523 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:13:L1041594106
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1041594106):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:13:L1041594106
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1041594106):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(15):L764799980 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:15:L1024972291
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1024972291):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:15:L1024972291
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1024972291):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] After jump:51(17) to :L1111284716
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(18):L696943853 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:18:L130089388
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L130089388):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:18:L130089388
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L130089388):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(20):L1159526633 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:20:L273991470
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L273991470):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:20:L273991470
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L273991470):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(22):L1111284716 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:22:L1932932845
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1932932845):[net.sourceforge.cobertura.instrument.tp.JumpTouchPointDescriptor@6c503cb2]
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:22:L1932932845
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1932932845):[net.sourceforge.cobertura.instrument.tp.JumpTouchPointDescriptor@6c503cb2]
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(24):L1303636565 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:24:L1742962250
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1742962250):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:24:L1742962250
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1742962250):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(26):L1591581261 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:26:L142107023
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L142107023):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:26:L142107023
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L142107023):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(28):L1897507953 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:28:L769697122
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L769697122):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:28:L769697122
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L769697122):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(30):L1284008121 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:30:L2005523573
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2005523573):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:30:L2005523573
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2005523573):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(31):L417047693 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:31:L2078851746
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2078851746):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:31:L2078851746
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L2078851746):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Writing instrumented class into:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/O2PController.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CodeInstrumentationTask$LoggerWrapper] Instrumenting: /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke.class to /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Instrumenting class /install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Working on file:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke.class
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:68:1:F:181:org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:this$0:Lorg/humbird/soa/portal/controller/rest/O2PController;;MI:183:java/lang/Object:<init>:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:69:2:F:181:org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:asynDone:Lorg/humbird/soa/core/invoke/Done;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:70:3:F:181:org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:protocolModel:Lorg/humbird/soa/core/model/ProtocolModel;;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:71:4:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:76:5:F:180:org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:asynDone:Lorg/humbird/soa/core/invoke/Done;;F:180:org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:protocolModel:Lorg/humbird/soa/core/model/ProtocolModel;;MI:185:org/humbird/soa/core/invoke/Done:invoke:(Lorg/humbird/soa/core/model/ProtocolModel;)V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:79:6:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:77:7:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:78:8:MI:182:java/lang/Exception:printStackTrace:()V;
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.DetectDuplicatedCodeClassVisitor] SIGNATURE:80:9:
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:0: Registering label (1) L1558311606
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:68: Registering line (2) L1558311606
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:68: Registering label (3) L1980086877
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:69: Registering line (4) L1980086877
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:69: Registering label (5) L1913547827
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:70: Registering line (6) L1913547827
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:70: Registering label (7) L283230917
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:71: Registering line (8) L283230917
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:71: Registering label (9) L1438260267
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:0: Registering label (10) L764376837
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:76: Registering line (11) L764376837
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:76: Registering label (12) L634323105
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:79: Registering line (13) L634323105
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:79: Registering label (14) L959602027
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:77: Registering line (15) L959602027
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:77: Registering label (16) L277624307
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:78: Registering line (17) L277624307
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:78: Registering label (18) L429078819
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:80: Registering line (19) L429078819
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke:80: Registering label (20) L1697246465
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== Detected duplicated code =============
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] =============== End of detected duplicated code ======
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Migrating classmap in projectData to store in *.ser file: org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Assigned 9 counters for class:org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(1):L2092996992 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L1558311606
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1558311606):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:1:L1558311606
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1558311606):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(3):L1218306684 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1980086877
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1980086877):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:3:L1980086877
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1980086877):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(5):L1971347490 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:5:L1913547827
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1913547827):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:5:L1913547827
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1913547827):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(7):L1059558514 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:7:L283230917
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L283230917):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:7:L283230917
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L283230917):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(9):L1065543874 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:9:L1438260267
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1438260267):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:9:L1438260267
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1438260267):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(10):L1314317462 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:10:L764376837
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L764376837):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:10:L764376837
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L764376837):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(12):L716790792 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:12:L634323105
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L634323105):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:12:L634323105
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L634323105):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(14):L1867065121 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:14:L959602027
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L959602027):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:14:L959602027
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L959602027):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(16):L720680577 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:16:L277624307
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L277624307):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:16:L277624307
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L277624307):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(18):L732438683 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:18:L429078819
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L429078819):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:18:L429078819
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L429078819):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.p.InjectCodeTouchPointListener] Looking for jumps going to event(20):L670688559 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:20:L1697246465
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1697246465):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] Label found for eventId:20:L1697246465
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.cobertura.instrument.tp.ClassMap] label2sourcePoints.get(L1697246465):null
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] 
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.i.CoberturaInstrumenter] Writing instrumented class into:/install_apps/test_bak/Humbird/Humbird-Portal/target/generated-classes/cobertura/org/humbird/soa/portal/controller/rest/O2PController$AsynInvoke.class
+[AILK]--[INFO]2015-06-29 09:37:24 [n.s.c.c.CoverageDataFileHandler] Cobertura: Saved information on 9 classes.
+[AILK]--[INFO]2015-06-29 09:37:24 [n.s.c.c.CoverageDataFileHandler] Cobertura: Saved information on 9 classes.
+[AILK]--[DEBUG]2015-06-29 09:37:24 [n.s.c.instrument.InstrumentMain] Instrument time: 348ms

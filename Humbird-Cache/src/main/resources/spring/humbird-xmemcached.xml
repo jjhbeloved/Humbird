@@ -1,0 +1,43 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        				http://www.springframework.org/schema/beans/spring-beans-3.2.xsd">
+    <!-- Root Context: defines shared resources visible to all other web components -->
+
+    <bean id="memcachedClientBuilder"
+            class="net.rubyeye.xmemcached.XMemcachedClientBuilder">
+        <!-- XMemcachedClientBuilder have two arguments.First is server list,and
+            second is weights array. -->
+        <constructor-arg>
+            <list>
+                <bean class="java.net.InetSocketAddress">
+                    <constructor-arg>
+                        <value>${org.humbird.soa.cache.memcached.host1}</value>
+                    </constructor-arg>
+                    <constructor-arg>
+                        <value>${org.humbird.soa.cache.memcached.port1}</value>
+                    </constructor-arg>
+                </bean>
+            </list>
+        </constructor-arg>
+        <property name="commandFactory">
+            <bean class="net.rubyeye.xmemcached.command.BinaryCommandFactory"/>
+        </property>
+        <property name="sessionLocator">
+            <bean class="net.rubyeye.xmemcached.impl.KetamaMemcachedSessionLocator"/>
+        </property>
+        <property name="transcoder">
+            <bean class="net.rubyeye.xmemcached.transcoders.SerializingTranscoder"/>
+        </property>
+        <property name="connectTimeout" value="${org.humbird.soa.cache.memcached.connect.timeout}" />
+        <property name="opTimeout" value="${org.humbird.soa.cache.memcached.operation.timeout}" />
+        <property name="connectionPoolSize" value="${org.humbird.soa.cache.memcached.poolsize}" />
+        <property name="failureMode" value="${org.humbird.soa.cache.memcached.nagle}" />
+    </bean>
+
+    <!-- Use factory bean to build memcached client -->
+    <bean id="memcachedClient"
+            factory-bean="memcachedClientBuilder"
+            factory-method="build"
+            destroy-method="shutdown"/>
+</beans>

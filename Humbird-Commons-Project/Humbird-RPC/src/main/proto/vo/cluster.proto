@@ -1,0 +1,83 @@
+package org.humbird.soa.ipc.protoc.vo;
+
+option java_package = "org.humbird.soa.ipc.protoc.vo";
+option java_outer_classname = "ClusterSlaveH";
+
+// like JNDI tree
+message ClusterH {
+    enum SinalModelH {
+	    UNICAST = 0;
+	    MULTICAST = 1;
+	}
+    required int32 id = 1;
+    required string cluster_name = 2;
+    required string ip = 3;
+    required string server_name = 4;
+    required SinalModelH signal_model = 5 [default = UNICAST];    // 0 unicast 1 multicast
+    optional int32 mem_counts = 6 [default = 0];  // default 0
+    optional int32 probe_counts = 7 [default = 0];  // default 0
+    repeated ClusterMemberH mems = 8;
+    repeated ProbeH probe = 9;
+}
+
+message ClusterMemberH {
+    enum MasterOrSlaveH {
+	    MASTER = 0;
+	    SLAVE = 1;
+	}
+    required string server_name = 1;
+    required string ip = 2 [default = "localhost"];
+    required int32 port = 3;
+    required MasterOrSlaveH mors = 4 [default = MASTER];
+}
+
+//  如果 ProbeTypeH = CACHE_NOTIFY 类型
+//      如果  ProbeH.version != master.version, 返回 ProbeReplyH.id = 1 代表 slave更新缓存
+//      如果  ProbeH.version == master.version, ProbeH.id = 1 询问 master slave是否切换2级缓存
+//          如果满足条件 返回 ProbeReplyH.id = 2 代表 slave切换2级缓存
+//          如果不满足条件 返回 返回 ProbeReplyH.id = 0 代表无需做任何事情
+//          如果不满足条件 返回 返回 ProbeReplyH.id = 1 下次继续询问
+//      如果  ProbeH.version == master.version, ProbeH.id = 0 代表无需做任何事情, 返回 ProbeReplyH.id = 0 代表无需做任何事情
+//
+//
+message ProbeH {
+    enum ProbeTypeH {
+        CACHE_NOTIFY = 0;
+        CACHE_FEED_BACK = 1;
+        LOG = 2;
+        HEARTBEAT = 3;
+    }
+    required int32 id = 1;  // 0=none, 1=update double cache, 2=switch cache
+    required string server_name = 2;
+    optional string ip = 3;
+    required int32 version =4;
+    optional string probe_message = 5;
+    optional ProbeTypeH type = 6 [default = HEARTBEAT];
+    optional int64 last_signal = 7;
+}
+
+message ProbeReplyH {
+    required int32 id = 1;  // 0=none, 1=update double cache, 2=switch cache
+    optional int32 version = 2;
+    optional bytes response_message = 3;
+    optional ErrorCode error_code = 4;
+    optional string error_message = 5;
+}
+
+enum ErrorCode {
+
+      // Server-side errors
+      BAD_REQUEST_DATA = 0; // Server received bad request data
+      BAD_REQUEST_PROTO = 1; // Server received bad request proto
+      SERVICE_NOT_FOUND = 2; // Service not found on server
+      METHOD_NOT_FOUND = 3; // Method not found on server
+      RPC_ERROR = 4; // Rpc threw exception on server
+      RPC_FAILED = 5; // Rpc failed on server
+
+      // Client-side errors (these are returned by the client-side code)
+      INVALID_REQUEST_PROTO = 6; // Rpc was called with invalid request proto
+      BAD_RESPONSE_PROTO = 7; // Server returned a bad response proto
+      UNKNOWN_HOST = 8; // Could not find supplied host
+      IO_ERROR = 9; // I/O error while communicating with server
+
+}

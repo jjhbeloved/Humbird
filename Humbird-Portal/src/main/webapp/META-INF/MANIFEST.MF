@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Version: 001
+Build-Jdk: 1.7.0_55
+Built-By: david
+Specification-Title: Humbird
+Created-By: Apache Maven 3.2.1
+Specification-Version: 1.0-SNAPSHOT
+

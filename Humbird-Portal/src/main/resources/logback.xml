@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration scan="true" scanPeriod="1800 seconds" debug="false">
+
+    <Encoding>UTF-8</Encoding>
+
+    <property scope="context" name="FILE_NAME" value="Humbird-Plug"/>
+
+    <timestamp key="byDay" datePattern="yyyy-MM-dd"/>
+
+    <substitutionProperty name="USER_HOME" value="${catalina.base}/logs" />
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>
+                [AILK]--[%p]%d{yyyy-MM-dd HH:mm:ss,SSS} [%logger{36}] %msg%n
+            </pattern>
+        </encoder>
+    </appender>
+
+    <appender name="Humbird-LOG"
+              class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${USER_HOME}/${FILE_NAME}.log</file>
+
+        <rollingPolicy class="ch.qos.logback.core.rolling.FixedWindowRollingPolicy">
+            <fileNamePattern>${USER_HOME}/${byDay}/${FILE_NAME}-${byDay}-%i.log.zip
+            </fileNamePattern>
+            <minIndex>1</minIndex>
+            <maxIndex>4</maxIndex>
+        </rollingPolicy>
+
+        <triggeringPolicy
+                class="ch.qos.logback.core.rolling.SizeBasedTriggeringPolicy">
+            <maxFileSize>5MB</maxFileSize>
+        </triggeringPolicy>
+        <encoder>
+            <pattern>
+                [AILK]--[%p]%d{yyyy-MM-dd HH:mm:ss,SSS} [%logger{36}] %msg%n
+            </pattern>
+        </encoder>
+
+    </appender>
+
+    <logger name="com.asiainfo.o2p.esign" level="DEBUG" additivity="false">
+        <appender-ref ref="Humbird-LOG"/>
+         <!--<appender-ref ref="STDOUT" />-->
+    </logger>
+
+    <logger name="org.humbird.soa" level="DEBUG" additivity="false">
+        <appender-ref ref="Humbird-LOG"/>
+        <!--<appender-ref ref="STDOUT" />-->
+    </logger>
+
+    <logger name="com.google.code.yanf4j.core" level="ERROR" additivity="false">
+        <appender-ref ref="Humbird-LOG"/>
+        <!--<appender-ref ref="STDOUT" />-->
+    </logger>
+
+    <logger name="net.rubyeye.xmemcached" level="ERROR" additivity="false">
+        <appender-ref ref="Humbird-LOG"/>
+        <!--<appender-ref ref="STDOUT" />-->
+    </logger>
+
+    <root level="DEBUG">
+        <appender-ref ref="Humbird-LOG"/>
+    </root>
+</configuration>

@@ -1,0 +1,19 @@
+<ehcache xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://ehcache.org/ehcache.xsd">
+
+    <!-- 1 minute default cache -->
+    <defaultCache
+            eternal="false"
+            overflowToDisk="false"
+            maxElementsInMemory="50"
+            timeToLiveSeconds="60"
+            timeToIdleSeconds="60">
+    </defaultCache>
+
+    <cache name="humbird"
+           eternal="true"
+           overflowToDisk="false"
+           maxElementsInMemory="10000"
+           timeToLiveSeconds="60"
+           timeToIdleSeconds="60">
+    </cache>
+</ehcache>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <artifactId>Humbird-Commons-Project</artifactId>
+        <groupId>org.humbird.soa</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>Humbird-Common</artifactId>
+    <packaging>jar</packaging>
+    <name>Humbird SOA Common</name>
+    <description>Humbird SOA Common</description>
+
+    <properties>
+        <humbird.osgi.export.pkg>
+            org.apache.camel.*;-noimport:=true
+        </humbird.osgi.export.pkg>
+
+        <humbird.osgi.activator>
+            org.apache.camel.impl.osgi.Activator
+        </humbird.osgi.activator>
+    </properties>
+
+
+</project>

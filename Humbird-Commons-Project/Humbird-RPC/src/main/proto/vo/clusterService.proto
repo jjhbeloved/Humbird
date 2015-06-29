@@ -1,0 +1,31 @@
+package org.humbird.soa.ipc.protoc.vo;
+
+import "cluster.proto";
+option java_package = "org.humbird.soa.ipc.protoc.service";
+option java_outer_classname = "ClusterHService";
+option java_generic_services = true;
+
+service BlockingFeedBack {
+    rpc feedback(ProbeH) returns (ProbeReplyH);
+}
+
+service NonBlockingFeedBack {
+    rpc feedback(ProbeH) returns (ProbeReplyH);
+}
+
+service BlockingNotify {
+    rpc notify(ProbeH) returns (ProbeReplyH);
+}
+
+service NonBlockingNotify {
+    rpc notify(ProbeH) returns (ProbeReplyH);
+}
+
+
+service BlockingCheck {
+    rpc heartbeat(ProbeH) returns (ProbeReplyH);
+}
+
+service NonBlockingCheck {
+    rpc heartbeat(ProbeH) returns (ProbeReplyH);
+}
